@@ -1,46 +1,39 @@
 ---
 sip: 0
 title: test
-network: Optimism
+network: Ethereum
 status: Draft
 type: Governance
-author: rootz
-implementor: 1233 123 1
-created: 2022-10-03
-requires: 
+author: test
+implementor: test
+created: 2024-03-06
+requires: 123
 ---
-
 
 # Simple Summary
 
-123asd asdadadadsadsd
-ad
-a
-da
-
+<p>test</p>
 
 # Abstract
 
-undefined
+<p>test</p>
 
 # Specification
 
 
 ### Overview
 
-undefined
+<p><span style="color: rgb(245, 245, 245);">Angkorwat</span></p>
 
 ### Rationale
 
-undefined
+<p><span style="color: rgb(245, 245, 245);">Angkorwat</span></p>
 
 ### Test Cases
 
-undefined
+<p><span style="color: rgb(245, 245, 245);">Angkorwat</span></p>
 
 
 ### Configurable Values (Via SCCP)
 
-
-
-
+<p><span style="color: rgb(245, 245, 245);">Angkorwat</span></p>
